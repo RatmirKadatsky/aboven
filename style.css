@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;/*текст-элайн: центер*/ /*ставит текст по середине*/
+	border: red 5px solid;
+}
+
+div {
+	display: inline-block;/*дисплей: инлайн-блок*/ /*чтобы стояли в один ряд*/
+	border: orange 7px solid;/*бордер: оранж 7пикселей солид*/ /*создает рамочку вокруг элемента*/
+	width: 29%;
+	text-align: center;
+	background: #f1f50a;
+	margin: 5px;/*делает промижутк между тегами*/
+}
+
+img {
+	width: 200px;
+	height: 220px;
+}
+
+.ратмир {
+	width: 50px;
+	height: 35px;
+}
+
+h2{
+	text-align: center;
+	border: red 5px solid;
+	background: orange;
+
+}
+
+p{
+	text-align: center;
+	font-weight: bold;/*делает буквы шири*/
+}
+
+body {
+	background: red;
+}
+
